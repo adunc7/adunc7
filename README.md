@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 🧠 Background
 🏆 Google Photorealistic 3D Maps Challenge - "Best of Built Environment and Sustainability". 
 
-🏆 Top 50 Recognition - IBM TechXChange watsonX pre-conference hackathon.
+🏆 Top 50 (Global) Recognition - IBM TechXChange pre-conference watsonX hackathon.
 
 🚀 Hackathon Judge, including NASA Space Apps Challenge 2025 - Global and Universal Event Judge. 
 

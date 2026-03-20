@@ -16,13 +16,18 @@ Here are some ideas to get you started:
 -->
 # 🌌 About 
 💡Entrepreneur/Founder 
+
 🤖 Applied R&D - AI, Aerospace and Emerging Tech 
+
 🔥 Creative Technologist 
 
 # 🧠 Background
 🏆 Google Photorealistic 3D Maps Challenge - "Best of Built Environment and Sustainability". 
+
 🏆 Top 50 Recognition - IBM TechXChange watsonX pre-conference hackathon.
+
 🚀 Hackathon Judge, including NASA Space Apps Challenge 2025 Global and Universal Event Judge. 
+
 🧑‍🏫 Mentor - 2025 NOAA Satellites Hackathon 
 
 

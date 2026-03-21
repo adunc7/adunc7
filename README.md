@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 🔥 Creative Technologist 
 
-## 🧠 Background
+⚙️ Engineer (Intelligent Systems for Earth and Space) 
+
+## 🧠 Background 
 🏆 Google Photorealistic 3D Maps Challenge - "Best of Built Environment and Sustainability". 
 
 🏆 Top 50 (Global) Recognition - IBM TechXChange pre-conference watsonX hackathon.
@@ -29,5 +31,7 @@ Here are some ideas to get you started:
 🚀 Hackathon Judge, including NASA Space Apps Challenge 2025 - Global and Universal Event Judge. 
 
 🧑‍🏫 Team Mentor - 2025 NOAA Satellites Hackathon 
+
+
 
 

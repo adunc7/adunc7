@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌌 About 
+### 🌌 About 
 💡Entrepreneur/Founder 
 
 🤖 Applied R&D - AI, Aerospace and Emerging Tech 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ⚙️ Engineer (Intelligent Systems for Earth and Space) 
 
-## 🧠 Background 
+### 🧠 Background 
 🏆 Google Photorealistic 3D Maps Challenge - "Best of Built Environment and Sustainability". 
 
 🏆 Top 50 (Global) Recognition - IBM TechXChange pre-conference watsonX hackathon.

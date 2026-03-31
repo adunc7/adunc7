@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 🧑‍🏫 Team Mentor - 2025 NOAA Satellites Hackathon 
 
-🤝 Community Collaboration: Participant, _Urban Futures: Co-creating Climate Resilience in NYC_. Presented by NSF Science & Technology Center for Learning the Earth with Artificial Intelligence and Physics and American Museum of Natural History in collaboration with Starr Whitehouse Architects and Planners and NVIDIA. 
+🤝 Community Collaboration: Participant, _Urban Futures: Co-creating Climate Resilience in NYC_. Presented by NSF Science & Technology Center for Learning the Earth with Artificial Intelligence and Physics and American Museum of Natural History in collaboration with Starr Whitehouse Landscape Architects and Planners and NVIDIA. 
 
 
 

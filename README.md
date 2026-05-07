@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 ⚙️ Engineer (Intelligent Systems for Earth and Space) 
 
+🚀 Aerospace Engineering - Georgia Tech 
+
+
 ## 🧠 Background 
 🏆 Google Photorealistic 3D Maps Challenge - "Best of Built Environment and Sustainability". 
 

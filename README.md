@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ⚙️ Engineer (Intelligent Systems for Earth and Space) 
 
-🚀 Aerospace Engineering - Georgia Tech 
+🚀 Georgia Tech Alum - Aerospace Engineering. 
 
 
 ## 🧠 Background 
